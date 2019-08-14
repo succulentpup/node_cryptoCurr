@@ -1,7 +1,7 @@
 {
   "name": "node_cryptocurr",
   "version": "1.0.0",
-  "description": "Fetches varous crypto currenci details",
+  "description": "Fetches various crypto currency details",
   "main": "sample.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
