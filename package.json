@@ -1,0 +1,22 @@
+{
+  "name": "node_cryptocurr",
+  "version": "1.0.0",
+  "description": "Fetches varous crypto currenci details",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/succulentpup/node_cryptoCurr.git"
+  },
+  "author": "LearningBot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/succulentpup/node_cryptoCurr/issues"
+  },
+  "homepage": "https://github.com/succulentpup/node_cryptoCurr#readme",
+  "dependencies": {
+    "request-promise": "^4.2.4"
+  }
+}
